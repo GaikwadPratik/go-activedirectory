@@ -69,9 +69,3 @@ Run test cases run `ginkgo -r` after setting below Environment variables in `.en
 | PasswordInvalid         | Invalid or some random password |
 | Upn                     | userPrincipalName of a test user that will be used |
 
-
- 
-
-# Add recursion of processing children
-# Add cmd
-# Paging support (currently 1000 results only)
